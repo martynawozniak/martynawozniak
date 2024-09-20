@@ -1,4 +1,4 @@
-## Computer Science and Cognitive Science Student at University of  Warsaw
+## Computer Science and Cognitive Science Student at University of  Warsa
 <!--
 **martynawozniak/martynawozniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
